@@ -7,6 +7,21 @@
 </head>
 
 <body>
+    <script>
+function redirectByMobileOS() {
+  var userAgent = navigator.userAgent || navigator.vendor || window.opera;
+
+//for Android
+    if (/android/i.test(userAgent)) {
+        window.location.href = "https://play.google.com/store/apps/details?id=id.aos.sajiapp&hl=en";
+    }
+
+//For iPhone / iPad / iPod  (iOS
+    if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) {
+        window.location.href = "https://apps.apple.com/id/app/saji/id1481428252";
+    }
+}
+</script>
     <h1>testing app link update 2</h1>
 </body>
 
