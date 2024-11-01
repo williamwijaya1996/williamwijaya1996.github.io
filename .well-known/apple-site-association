@@ -2,7 +2,7 @@
  "applinks": {
   "apps": [],
   "details": [{
-   "appID": "com.example.appLinkTest"
+   "appID": "com.example.appLinkTestIos"
   }]
  }
 }
