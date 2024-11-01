@@ -5,9 +5,9 @@
         ],
         "target": {
             "namespace": "android_app",
-            "package_name": "com.example.app_link_test",
+            "package_name": "id.aos.sajiapp",
             "sha256_cert_fingerprints": [
-                "42:D3:D8:0E:42:67:DC:8F:6E:67:BA:EF:E1:87:E8:0A:0E:A7:FB:1D:42:79:2B:16:DF:5D:2F:90:FF:68:59:82"
+                "A1:9D:AE:88:8F:D2:5C:D5:4F:A7:FA:D8:26:F7:69:84:46:22:58:A1:CB:47:29:C4:58:4C:68:52:22:F6:E2:77"
             ]
         }
     }
