@@ -1,9 +1,25 @@
 {
- "applinks": {
-  "details": [
-    {
-       "appID": "CF6B6NS2HX.com.example.appLinkTestIos"
-    }
- ]
- }
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "CF6B6NS2HX.com.example.appLinkTestIos"
+        ],
+        "paths": [
+          "*"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "CF6B6NS2HX.com.example.appLinkTestIos"
+    ]
+  }
 }
